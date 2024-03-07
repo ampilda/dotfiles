@@ -18,8 +18,9 @@ VideoPlayer - <a href="https://mpv.io/">MPV</a> <br />
 MusicPlayer - <a href="https://getmusicbee.com/">MusicBee</a>
 
 # Themes
-VSCodium - <a href="https://open-vsx.org/vscode/item?itemName=daylerees.rainglow">Rainglow(Peel)</a> <br />
-MusicBee - <a href="https://getmusicbee.com/addons/skins/482/centrol-black/">Centrol Black</a> <br />
+VSCodium Color Scheme - <a href="https://open-vsx.org/vscode/item?itemName=daylerees.rainglow">Rainglow(Peel)</a> <br />
+Font in VSCodium - <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a> <br />
 Terminal Color Scheme - <a href="https://github.com/scaryrawr/winwal">winwal</a> <br />
 Font in Terminal - <a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/ShareTechMono.zip">ShureTechMono Nerd Font</a> <br />
 Command Prompt - <a href="https://github.com/starship/starship">starship</a>+<a href="https://github.com/chrisant996/clink">clink</a> <br />
+MusicBee - <a href="https://getmusicbee.com/addons/skins/482/centrol-black/">Centrol Black</a> <br />

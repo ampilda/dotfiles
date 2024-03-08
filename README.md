@@ -3,7 +3,7 @@
 
 # General
 Terminal - <a href="https://github.com/microsoft/terminal">Windows Terminal</a> <br />
-Package Manager - <a href="https://github.com/microsoft/winget-cli">winget</a>, <a href="https://scoop.sh">scoop</a> <br />
+Package Manager - <a href="https://github.com/microsoft/winget-cli">winget</a>, <a href="https://scoop.sh">scoop</a> and <a href="https://github.com/chocolatey/choco">choco</a> <br />
 IDE/Text Editor - in general <a href="https://github.com/focus-editor/focus">focus</a> as GUI text (and .c files) editor, <a href="https://github.com/VSCodium/vscodium">VSCodium</a> as IDE  and <a href="https://github.com/neovim/neovim">NeoVim</a> as a console text editor <br />
 Shell - PowerShell 7 with <a href="https://ohmyposh.dev/">Oh My Posh</a> <br />
 App Runner - <a href="https://github.com/microsoft/PowerToys/wiki/PowerToys-Run-Overview/eef04e3ca7665e727737c6cd951a801daa0b63cc">PowerToys Run</a> <br />

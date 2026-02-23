@@ -20,6 +20,7 @@ local options = {
    incsearch = true,
 
    termguicolors = true,
+   guicursor="n-v-c:block-Cursor/lCursor,i-ci-ve:block-Cursor/lCursor,r-cr:block-Cursor/lCursor,o:block-Cursor/lCursor",
 
    updatetime = 50,
 
@@ -28,11 +29,11 @@ local options = {
    scrolloff = 8,
 --   ai = true,
 --   et = true,
-
-   wrap = true,
    
- --  colorscheme = "pywal",
+   langmap = 'ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz',
+   
 }
+vim.cmd[[colorscheme gruber-darker]]
 for option, value in pairs(options) do
   vim.opt[option] = value
 end

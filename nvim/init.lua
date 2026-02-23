@@ -1,6 +1,6 @@
 require("config.lazy")
 require("config.options")
 require("config.mapping")
-require("config.lsp")
-require("config.clangd")
 require("config.blankline")
+require("config.treesitter")
+require("config.netrw")

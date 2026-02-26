@@ -34,6 +34,8 @@ local options = {
    
 }
 vim.cmd[[colorscheme gruber-darker]]
+vim.opt.fillchars = { eob = ' ' }
+vim.wo.signcolumn = "yes"
 for option, value in pairs(options) do
   vim.opt[option] = value
 end

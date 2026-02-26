@@ -4,7 +4,7 @@ return {
     require('toggleterm').setup({
       open_mapping = '<C-/>',
       terminal_mappings = true,
-      direction = 'float',
+      direction = 'horizontal',
       float_opts = {
         border = 'curved',
       },

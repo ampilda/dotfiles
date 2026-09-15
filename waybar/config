@@ -1,0 +1,49 @@
+[
+{
+	"output": "HDMI-0",
+	"include": "~/.config/waybar/modules",
+    "layer": "top",
+    "position": "top",
+    "height": 24,
+    "spacing": 1,
+    "margin": 0,
+    "modules-left": ["niri/workspaces"],
+        "modules-center": [],                                                                           //battery   //disk     // uptime      //updates        // systray
+    "modules-right": ["power-profiles-daemon", "temperature#cpu","niri/language", "clock", "tray"],
+
+    "niri/workspaces": {
+		"active-only": false,
+        "all-outputs": true,
+        "format": "{name}",
+    },	
+
+	"niri/language": {
+    "format": "{}",
+    	"format-en": "en",
+    	"format-ru": "ru",
+	},	
+        
+},
+{
+	"output": "DP-1",
+	"include": "~/.config/waybar/modules",
+    "layer": "top",
+    "position": "top",
+    "height": 23,
+    "spacing": 1,
+    "margin": 0,
+    "modules-left": ["niri/workspaces", "custom/uptime", "custom/playerctl"],
+	"modules-center": [],
+    "modules-right": ["power-profiles-daemon","cpu", "memory", "temperature#cpu", "temperature#gpu", "disk", "niri/language", "clock", "tray"],
+	// "niri/workspaces": {
+		// "active-only": false,
+        // "all-outputs": true,
+        // "format": "{name}",
+    // },
+	"niri/language": {
+    "format": "{}",
+    	"format-en": "en",
+    	"format-ru": "ru",
+	}	
+},
+]

@@ -1,0 +1,22 @@
+# gruber-darker (Tsoding ver.)
+
+[colors-dark]
+cursor=181818 ffdd33
+foreground=e4e4e4
+background=181818
+regular0=191919
+regular1=f92649
+regular2=a6e22e
+regular3=ff8942
+regular4=66a9ec
+regular5=cd5ac5
+regular6=8cdaff
+regular7=ffd2a6
+bright0=999999
+bright1=ff5e5e
+bright2=e9fdac
+bright3=fc9354
+bright4=66a9ec
+bright5=ffb2f9
+bright6=90e7f7
+bright7=3b3a32
